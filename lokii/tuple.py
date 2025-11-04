@@ -5,4 +5,7 @@ print(a[2])
 print(a[:3])
 print(a[2:])
 print(a[-1])
+<<<<<<< HEAD
 print(a[:-1])
+=======
+>>>>>>> dev
